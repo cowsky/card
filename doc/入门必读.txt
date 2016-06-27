@@ -1,0 +1,21 @@
+1. 标准开发环境：eclipse + maven + jdk7 + tomcat7 + mysql
+
+2. 必须手工执行SQL脚本 (自动初始化的方式已作废)
+    doc\db\jeewx2.0-mysql.sql
+	说明：目前社区只提供mysql脚本一种，其他数据库大家可以通过navicat自己转化
+	       具体方法参考:http://www.jeecg.org/forum.php?mod=viewthread&tid=2746&extra=page%3D2
+		   
+3. Maven下载有问题，可以下载社区提供本地maven仓库,配置在本地
+   http://www.jeecg.org/forum.php?mod=viewthread&tid=1805&extra=page%3D2
+
+4. jeewx技术文档：
+	链接: http://pan.baidu.com/s/1eQouFNc 密码: ubjx
+	链接: http://pan.baidu.com/s/1jGl4HMI 密码: 20vq
+
+5. Jeewx开发入门视频
+    http://www.jeecg.org/forum.php?m ... &extra=page%3D1
+	
+6. 不熟悉maven的同学，可以下载非maven版本
+   下载地址: http://pan.baidu.com/s/1eQ0aZ66 密码: vgst
+   
+   注意： 不支持jdk8;必须手工执行doc\db下的数据库脚本	
